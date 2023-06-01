@@ -15,7 +15,7 @@
         </span>
         <input type="text" onchange="validar()" id="desc" name="desc" class="form-control" placeholder="Ingrese la descripción" aria-label="Recipient's username" aria-describedby="basic-addon2">
     </div>-->
-
+<!-- software libreS -->
     <label for="">Número 1</label>
     <div class="input-group mb-3">
         <span class="input-group-text" id="basic-addon2">
