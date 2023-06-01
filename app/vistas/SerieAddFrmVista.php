@@ -37,7 +37,7 @@
             <i class="fa fa-plus"></i> Sumar
         </button>
     </div>
-
+<!-- practicas en git.hub -->
     <label for="">Resultado</label>
     <div class="input-group mb-3">
         <span class="input-group-text" id="basic-addon2">
